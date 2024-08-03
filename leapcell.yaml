@@ -1,5 +1,5 @@
 runtime: javascript
 startCommand: ./start.sh
-buildCommand: npm install && npm run build
+buildCommand: npm install && npm run deploy
 port: 3000
 memory: 512mb
